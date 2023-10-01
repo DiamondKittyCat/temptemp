@@ -1,0 +1,15 @@
+{
+  "contact": "mapmap2",
+  "templates": [
+    {
+      "name": "mapmap2",
+      "sources": [
+        "https://i.imgur.com/EXAMPLE.png"
+      ],
+      "x": 123,
+      "y": 123
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
